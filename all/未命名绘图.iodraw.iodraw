@@ -16,6 +16,9 @@
         <mxCell id="G40tISE24eByQwa6Kpae-5" value="定义域：城市" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="100" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="G40tISE24eByQwa6Kpae-7" value="值域：省份" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
