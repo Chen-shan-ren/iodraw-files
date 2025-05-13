@@ -8,10 +8,10 @@
           <mxGeometry x="10" y="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G40tISE24eByQwa6Kpae-3" value="接壤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G40tISE24eByQwa6Kpae-4" value="下辖城市" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G40tISE24eByQwa6Kpae-5" value="定义域：城市" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="100" width="80" height="30" as="geometry" />
