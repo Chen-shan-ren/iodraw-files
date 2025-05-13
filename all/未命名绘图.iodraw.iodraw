@@ -19,6 +19,9 @@
         <mxCell id="G40tISE24eByQwa6Kpae-7" value="值域：省份" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="140" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="G40tISE24eByQwa6Kpae-8" value="双向性：单向" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
