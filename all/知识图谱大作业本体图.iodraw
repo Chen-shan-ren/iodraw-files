@@ -1,0 +1,100 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="8wSBG5jPrpcTzJ6f98uX">
+    <mxGraphModel dx="2105" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pWMF6nADUnOkqcgavNv6-1" value="地域信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-2" value="地理实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-4" value="城市" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-5" value="省份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pWMF6nADUnOkqcgavNv6-1" target="pWMF6nADUnOkqcgavNv6-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="105" as="sourcePoint" />
+            <mxPoint x="170" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="45" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pWMF6nADUnOkqcgavNv6-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="390" as="sourcePoint" />
+            <mxPoint x="90" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pWMF6nADUnOkqcgavNv6-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="395" as="sourcePoint" />
+            <mxPoint x="190" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-24" value="子类：&#39;地级市&#39;, &#39;自治州&#39;, &#39;地级市历史政区&#39;, &#39;直辖市&#39;, &#39;省直辖县级行政单位&#39;, &#39;设区的市&#39;, &#39;市辖区&#39;, &#39;地区&#39;, &#39;盟&#39;, &#39;县级市&#39;, &#39;林区省直辖县级行政单位&#39;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-27" value="属性：城市名,英文名,别名,人口数量,地区生产总值,车牌号,行政级别,省份，百度百科url,著名景点,火车站" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-28" value="关系：隶属、接壤" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-31" value="属性：省份名称、简称" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-33" value="关系：下辖城市" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pWMF6nADUnOkqcgavNv6-28" target="pWMF6nADUnOkqcgavNv6-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="340" as="sourcePoint" />
+            <mxPoint x="170" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="125" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-44" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pWMF6nADUnOkqcgavNv6-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="285" as="sourcePoint" />
+            <mxPoint x="170" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pWMF6nADUnOkqcgavNv6-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="235" as="sourcePoint" />
+            <mxPoint x="170" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-49" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="555" as="sourcePoint" />
+            <mxPoint x="125" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="125" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="445" as="sourcePoint" />
+            <mxPoint x="160" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWMF6nADUnOkqcgavNv6-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="390" as="sourcePoint" />
+            <mxPoint x="90" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
