@@ -10,14 +10,20 @@
         <mxCell id="XgOl6cicmZkqCc2JHkrC-36" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XgOl6cicmZkqCc2JHkrC-37" target="XgOl6cicmZkqCc2JHkrC-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XgOl6cicmZkqCc2JHkrC-37" value="接收用户输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="120" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XgOl6cicmZkqCc2JHkrC-39" value="用户输入“镇江市有哪些著名景点”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="90" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XgOl6cicmZkqCc2JHkrC-40" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-40" value="解析意图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="158" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
