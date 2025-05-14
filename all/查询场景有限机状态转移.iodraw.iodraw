@@ -194,8 +194,8 @@
         <mxCell id="KPhCmNLjGXYLqkdxD8s1-22" value="向Jena发送查询请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="328" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KPhCmNLjGXYLqkdxD8s1-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="238" width="50" height="30" as="geometry" />
+        <mxCell id="KPhCmNLjGXYLqkdxD8s1-24" value="生成SPARQL查询语句" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="238" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
