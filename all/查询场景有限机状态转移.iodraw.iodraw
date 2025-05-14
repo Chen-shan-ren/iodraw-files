@@ -38,7 +38,7 @@
           <mxGeometry x="290" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XgOl6cicmZkqCc2JHkrC-13" value="查询火车站" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="440" width="82.5" height="40" as="geometry" />
+          <mxGeometry x="207.5" y="430" width="82.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
