@@ -78,11 +78,17 @@
         <mxCell id="XgOl6cicmZkqCc2JHkrC-55" value="查询火车站场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="780" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XgOl6cicmZkqCc2JHkrC-58" target="XgOl6cicmZkqCc2JHkrC-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XgOl6cicmZkqCc2JHkrC-58" value="提示无景点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="690" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XgOl6cicmZkqCc2JHkrC-60" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="780" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-63" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="328" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
