@@ -28,14 +28,23 @@
         <mxCell id="XgOl6cicmZkqCc2JHkrC-42" value="提取关键词“镇江”、“著名场景”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="170" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XgOl6cicmZkqCc2JHkrC-43" target="XgOl6cicmZkqCc2JHkrC-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XgOl6cicmZkqCc2JHkrC-43" value="构建查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XgOl6cicmZkqCc2JHkrC-45" value="生成SPAQL查询语句" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="250" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XgOl6cicmZkqCc2JHkrC-46" target="XgOl6cicmZkqCc2JHkrC-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XgOl6cicmZkqCc2JHkrC-46" value="查询数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XgOl6cicmZkqCc2JHkrC-47" target="XgOl6cicmZkqCc2JHkrC-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XgOl6cicmZkqCc2JHkrC-47" value="处理结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="440" width="90" height="40" as="geometry" />
