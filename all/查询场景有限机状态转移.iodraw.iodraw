@@ -90,8 +90,8 @@
         <mxCell id="XgOl6cicmZkqCc2JHkrC-63" value="向Jena发送查询请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="328" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XgOl6cicmZkqCc2JHkrC-64" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="408" width="50" height="30" as="geometry" />
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-64" value="解析返回的RDF数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="408" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
