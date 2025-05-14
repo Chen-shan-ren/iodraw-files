@@ -52,6 +52,9 @@
         <mxCell id="XgOl6cicmZkqCc2JHkrC-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XgOl6cicmZkqCc2JHkrC-48" target="XgOl6cicmZkqCc2JHkrC-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XgOl6cicmZkqCc2JHkrC-48" target="XgOl6cicmZkqCc2JHkrC-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XgOl6cicmZkqCc2JHkrC-48" value="判断是否有景点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="520" width="90" height="40" as="geometry" />
         </mxCell>
@@ -73,8 +76,8 @@
         <mxCell id="XgOl6cicmZkqCc2JHkrC-58" value="提示无景点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="690" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XgOl6cicmZkqCc2JHkrC-60" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="810" width="90" height="40" as="geometry" />
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-60" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="780" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
