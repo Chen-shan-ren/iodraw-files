@@ -134,6 +134,9 @@
         <mxCell id="KPhCmNLjGXYLqkdxD8s1-3" value="解析意图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="200" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KPhCmNLjGXYLqkdxD8s1-4" value="构建查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
