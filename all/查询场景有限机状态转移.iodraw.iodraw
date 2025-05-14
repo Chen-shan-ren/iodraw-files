@@ -140,8 +140,11 @@
         <mxCell id="KPhCmNLjGXYLqkdxD8s1-5" value="查询数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="360" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KPhCmNLjGXYLqkdxD8s1-6" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KPhCmNLjGXYLqkdxD8s1-6" value="处理结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="440" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPhCmNLjGXYLqkdxD8s1-7" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
