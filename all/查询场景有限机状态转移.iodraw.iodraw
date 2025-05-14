@@ -146,8 +146,8 @@
         <mxCell id="KPhCmNLjGXYLqkdxD8s1-7" value="判断是否有车站" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="520" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KPhCmNLjGXYLqkdxD8s1-8" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="630" width="90" height="40" as="geometry" />
+        <mxCell id="KPhCmNLjGXYLqkdxD8s1-8" value="显示车站列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="610" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
