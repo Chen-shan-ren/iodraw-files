@@ -103,7 +103,10 @@
           <mxGeometry x="110" y="648" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XgOl6cicmZkqCc2JHkrC-68" value="用户选择“是”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="85" y="738" width="90" height="30" as="geometry" />
+          <mxGeometry x="110" y="738" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-69" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="558" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
