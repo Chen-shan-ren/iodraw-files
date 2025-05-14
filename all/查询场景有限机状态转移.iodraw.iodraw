@@ -14,7 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XgOl6cicmZkqCc2JHkrC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XgOl6cicmZkqCc2JHkrC-2" target="XgOl6cicmZkqCc2JHkrC-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="400" />
+              <mxPoint x="200" y="400" />
+              <mxPoint x="200" y="635" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XgOl6cicmZkqCc2JHkrC-2" value="查询景点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="207.5" y="140" width="75" height="40" as="geometry" />
