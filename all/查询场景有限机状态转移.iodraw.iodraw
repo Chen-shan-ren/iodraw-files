@@ -58,11 +58,14 @@
         <mxCell id="XgOl6cicmZkqCc2JHkrC-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="620" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XgOl6cicmZkqCc2JHkrC-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XgOl6cicmZkqCc2JHkrC-17" target="XgOl6cicmZkqCc2JHkrC-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="560" as="sourcePoint" />
             <mxPoint x="360" y="510" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="568" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
