@@ -167,8 +167,11 @@
         <mxCell id="KPhCmNLjGXYLqkdxD8s1-10" value="流程结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="680" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KPhCmNLjGXYLqkdxD8s1-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="115" y="558" width="50" height="30" as="geometry" />
+        <mxCell id="KPhCmNLjGXYLqkdxD8s1-15" value="存在火车站数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="558" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KPhCmNLjGXYLqkdxD8s1-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="538" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
