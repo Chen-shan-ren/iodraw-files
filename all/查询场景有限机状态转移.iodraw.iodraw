@@ -23,7 +23,10 @@
           <mxGeometry x="190" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XgOl6cicmZkqCc2JHkrC-42" value="提取关键词“镇江”、“著名场景”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="158" width="180" height="30" as="geometry" />
+          <mxGeometry x="240" y="170" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XgOl6cicmZkqCc2JHkrC-43" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
