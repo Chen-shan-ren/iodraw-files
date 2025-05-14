@@ -131,6 +131,9 @@
         <mxCell id="KPhCmNLjGXYLqkdxD8s1-2" value="接收用户输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="120" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KPhCmNLjGXYLqkdxD8s1-3" value="解析意图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
