@@ -182,8 +182,8 @@
         <mxCell id="KPhCmNLjGXYLqkdxD8s1-18" value="检查hasRallwayStation属性是否有数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="488" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KPhCmNLjGXYLqkdxD8s1-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="408" width="50" height="30" as="geometry" />
+        <mxCell id="KPhCmNLjGXYLqkdxD8s1-20" value="解析返回的RDF数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="408" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
