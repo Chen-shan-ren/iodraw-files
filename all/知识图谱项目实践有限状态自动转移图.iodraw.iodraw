@@ -129,8 +129,8 @@
         <mxCell id="XnVmZYkKGPbaw5mYyS07-12" value="处理结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="438" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XnVmZYkKGPbaw5mYyS07-13" value="用户输入“请告诉我华控基金投资过哪些企业，以及每笔投资的轮次和具体日期”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="85" width="440" height="30" as="geometry" />
+        <mxCell id="XnVmZYkKGPbaw5mYyS07-13" value="用户输入“武汉光谷人福生物医药有限公司申请过哪些专利？”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="85" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XnVmZYkKGPbaw5mYyS07-14" value="提取关键词“华控基金”，“投资”，“轮次”，“具体日期”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="164" width="300" height="30" as="geometry" />
