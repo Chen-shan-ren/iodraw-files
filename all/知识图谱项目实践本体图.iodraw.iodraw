@@ -7,7 +7,7 @@
         <mxCell id="3gtA_5zAZKbB-fB76oZo-1" value="天使投资公司信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="80" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3gtA_5zAZKbB-fB76oZo-3" value="公司实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3gtA_5zAZKbB-fB76oZo-3" value="实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="150" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3gtA_5zAZKbB-fB76oZo-7" value="Investor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
