@@ -4,20 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SYjvm0gwu_sk5IPHiHat-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SYjvm0gwu_sk5IPHiHat-1" target="SYjvm0gwu_sk5IPHiHat-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SYjvm0gwu_sk5IPHiHat-1" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SYjvm0gwu_sk5IPHiHat-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SYjvm0gwu_sk5IPHiHat-2" target="SYjvm0gwu_sk5IPHiHat-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SYjvm0gwu_sk5IPHiHat-2" value="接收用户输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SYjvm0gwu_sk5IPHiHat-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SYjvm0gwu_sk5IPHiHat-4" target="SYjvm0gwu_sk5IPHiHat-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SYjvm0gwu_sk5IPHiHat-4" value="解析意图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="220" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SYjvm0gwu_sk5IPHiHat-5" value="构建查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SYjvm0gwu_sk5IPHiHat-6" value="查询数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SYjvm0gwu_sk5IPHiHat-8" value="处理结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="450" width="80" height="40" as="geometry" />
