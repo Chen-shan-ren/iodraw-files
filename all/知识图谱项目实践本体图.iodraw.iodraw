@@ -67,10 +67,13 @@
             <mxPoint x="195" y="429.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3gtA_5zAZKbB-fB76oZo-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3gtA_5zAZKbB-fB76oZo-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=-0.021;exitY=0.422;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3gtA_5zAZKbB-fB76oZo-15" target="3gtA_5zAZKbB-fB76oZo-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="390" as="sourcePoint" />
             <mxPoint x="650" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="383" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
