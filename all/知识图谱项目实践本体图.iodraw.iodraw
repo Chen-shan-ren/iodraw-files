@@ -28,6 +28,9 @@
         <mxCell id="3gtA_5zAZKbB-fB76oZo-12" value="属性：ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="265" y="548" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3gtA_5zAZKbB-fB76oZo-13" value="关系：投资" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
