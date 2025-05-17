@@ -38,7 +38,10 @@
           <mxGeometry x="220" y="85" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SYjvm0gwu_sk5IPHiHat-14" value="提取关键词“华控基金”，“投资”，“轮次”，“具体日期”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="170" width="300" height="30" as="geometry" />
+          <mxGeometry x="220" y="164" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYjvm0gwu_sk5IPHiHat-15" value="生成查询语句" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="248" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
