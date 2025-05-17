@@ -52,8 +52,8 @@
         <mxCell id="SYjvm0gwu_sk5IPHiHat-18" value="解析返回的查询结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="222" y="408" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SYjvm0gwu_sk5IPHiHat-19" value="处理结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="448" width="80" height="40" as="geometry" />
+        <mxCell id="SYjvm0gwu_sk5IPHiHat-19" value="判断是否返回结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
