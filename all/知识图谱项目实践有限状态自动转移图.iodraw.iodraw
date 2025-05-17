@@ -13,8 +13,11 @@
         <mxCell id="SYjvm0gwu_sk5IPHiHat-4" value="解析意图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SYjvm0gwu_sk5IPHiHat-5" value="接收用户输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="160" width="80" height="40" as="geometry" />
+        <mxCell id="SYjvm0gwu_sk5IPHiHat-5" value="构建查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SYjvm0gwu_sk5IPHiHat-6" value="接收用户输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="170" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
