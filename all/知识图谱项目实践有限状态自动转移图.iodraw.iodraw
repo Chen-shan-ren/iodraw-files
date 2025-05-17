@@ -58,8 +58,11 @@
         <mxCell id="SYjvm0gwu_sk5IPHiHat-19" value="判断是否返回结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SYjvm0gwu_sk5IPHiHat-21" value="处理结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SYjvm0gwu_sk5IPHiHat-21" value="显示返回结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="585" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SYjvm0gwu_sk5IPHiHat-22" value="处理结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="468" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
