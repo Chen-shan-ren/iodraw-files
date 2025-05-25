@@ -19,6 +19,9 @@
         <mxCell id="CRh1Tn9spXVnM0EE5vkq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CRh1Tn9spXVnM0EE5vkq-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="270" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CRh1Tn9spXVnM0EE5vkq-3" value="生成图像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
