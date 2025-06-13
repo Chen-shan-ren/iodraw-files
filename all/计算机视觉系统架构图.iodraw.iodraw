@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rSJS8gOMoCFZaQFWVncr-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="395" width="495" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="rSJS8gOMoCFZaQFWVncr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="145" width="465" height="150" as="geometry" />
         </mxCell>
@@ -31,8 +34,8 @@
         <mxCell id="rSJS8gOMoCFZaQFWVncr-14" value="分割结果模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="490" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rSJS8gOMoCFZaQFWVncr-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="350" width="495" height="230" as="geometry" />
+        <mxCell id="rSJS8gOMoCFZaQFWVncr-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
