@@ -35,7 +35,7 @@
           <mxGeometry x="485" y="490" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rSJS8gOMoCFZaQFWVncr-16" value="前端模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="305" y="420" width="65" height="40" as="geometry" />
+          <mxGeometry x="310" y="420" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
