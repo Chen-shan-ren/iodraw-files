@@ -20,15 +20,15 @@
           <mxGeometry x="305" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rSJS8gOMoCFZaQFWVncr-11" value="图片模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="490" width="90" height="40" as="geometry" />
+          <mxGeometry x="120" y="490" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rSJS8gOMoCFZaQFWVncr-12" value="视频模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="490" width="90" height="40" as="geometry" />
+          <mxGeometry x="240" y="490" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rSJS8gOMoCFZaQFWVncr-13" value="摄像头模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="490" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rSJS8gOMoCFZaQFWVncr-14" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rSJS8gOMoCFZaQFWVncr-14" value="分割结果模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="490" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
